@@ -237,6 +237,4 @@ foo complexity: __________ bar complexity: __________ winner: __________
 
 foo complexity: __________ bar complexity: __________ winner: __________
 
-### n=1000
-
-foo complexity: __________ bar complexity: __________ winner: __________
+<p class='util--hide'>View <a href='https://learn.co/lessons/big-O-for-burritos'>Big O For Burritos</a> on Learn.co and start learning to code for free.</p>
