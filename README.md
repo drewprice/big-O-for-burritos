@@ -193,7 +193,7 @@ Winner: _______________
 
 ## Exercise 6
 
-Which algorithm, foo or bar, is faster when when `n` is 10? 100? 1000?
+Which algorithm, foo or bar, is faster when `n` is 10? 100? 1000?
 
 Algorithm foo
 
@@ -240,3 +240,5 @@ foo complexity: __________ bar complexity: __________ winner: __________
 ### n=1000
 
 foo complexity: __________ bar complexity: __________ winner: __________
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/big-O-for-burritos'>Big O For Burritos</a> on Learn.co and start learning to code for free.</p>
